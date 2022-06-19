@@ -1,0 +1,6 @@
+div {
+    background-color: aqua;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
